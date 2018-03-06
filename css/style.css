@@ -82,11 +82,11 @@ body{
 }
 
 .fig2{
-	border: 1px solid wait;
+	border: 1px solid black;
 	width: 90px;
 	height: 90px;
 	border-radius: 50%;
-	background-color: #FFF;
+	background-color: #black;
 	margin: 5px auto;
 }
 .fig1{
