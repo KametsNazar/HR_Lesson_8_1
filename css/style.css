@@ -1,0 +1,93 @@
+body{
+	/*background:url(###.jpg);
+	width: 1600px;
+	height: 1200px;*/
+}
+.bord{
+	border: 10px solid black;
+	border-radius: 20px;
+	background:url(1.jpg);
+	width: 800px;
+	height: 800px;
+	margin: 0 auto;
+	position: relative;
+	z-index: 1;
+}
+.vs{
+	width: 100px;
+	height: 100px;
+	background:url(2.jpg);
+	position: absolute;
+	z-index: 2;
+}
+
+.lin_1 {
+	border-radius: 50px;
+}
+
+.lin_1{
+	/*margin: 12.5% 0 0 0;*/
+}
+.lin_2{
+	margin: 12.5% 0 0 0;
+}
+.lin_3{
+	margin: 25% 0 0 0;
+}
+.lin_4{
+	margin: 37.5% 0 0 0;
+}
+.lin_5{
+	margin: 50% 0 0 0;
+}
+.lin_6{
+	margin: 62.5% 0 0 0;
+}
+.lin_7{
+	margin: 75% 0 0 0;
+}
+.lin_8{
+	margin: 87.5% 0 0 0;
+}
+
+.j1{
+	right: 37.4%;
+}
+.j2{
+	right: 12.5%;
+}
+.j3{
+	right:62.4%;
+}
+.j4{
+	right:
+}
+.j5{
+	right: 0%;
+}
+.j6{
+	right:25%;
+}
+.j7{
+	right: 50%;
+}
+.j8{
+	right: 75%;
+}
+
+.fig2{
+	border: 1px solid wait;
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+	background-color: #FFF;
+	margin: 5px auto;
+}
+.fig1{
+	border: 1px solid red;
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+	background-color: #f80719;
+	margin: 5px auto;
+}
